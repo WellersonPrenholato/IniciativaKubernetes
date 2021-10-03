@@ -9,6 +9,8 @@ Na primeira aula, foi apresentado as grandes oportunidades que giram em  torno d
 
 Foi apresentado os conceitos e princípios fundamentais da containerização e do Docker. E como é criar e executar containers no Docker a partir de imagens prontas e também como criar a própria imagem Docker.
 
+[Badge - Explorador - Containers e Docker](https://badgr.com/backpack/badges/61586910a6741b71351281bb)
+
 ---
 
 ## 📌 **[AULA 2] Desvendando o Kubernetes**

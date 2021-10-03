@@ -10,7 +10,9 @@ https://github.com/KubeDev/conversao-peso
 `docker run -d -p 5000:80 <nome_imagem>`
 
 ## Kubernetes
-`docker run --rm mcr.microsoft.com/dotnet/aspnet printenv`
+`kubectl apply -f k8s/deployment.yaml`
+
+Para verificar no browser basta acessar: `https://localhost:30000`
 
 ## Referência:
 https://docs.microsoft.com/pt-br/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-5.0

@@ -1,5 +1,7 @@
-# 👨‍💻 IniciativaKubernetes 📚
+# 👨‍💻 Iniciativa Kubernetes 📚
 A Iniciativa Kubernetes é o evento de imersão dedicado a tecnologias de containers, Docker, Kubernetes e práticas de automação com pipelines de CI/CD.
+
+https://kubedev.io/
 
 ---
 
